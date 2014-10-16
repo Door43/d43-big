@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[big:home|Door43 (big)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-big|d43-big repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-big/archive/master.zip|d43-big.zip]]
+
+**Recent Changes**
+{{changes>ns = big}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/big|Ethnologue data]]
+
